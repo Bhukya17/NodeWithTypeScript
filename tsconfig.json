@@ -8,3 +8,7 @@
     "esModuleInterop": true
   }
 }
+
+
+//The tsconfig.json file is used to configure the TypeScript compiler with settings like target ECMAScript version, module system, output directory, strict type-checking, and more
+//TypeScript documentation: https://www.typescriptlang.org/tsconfig
